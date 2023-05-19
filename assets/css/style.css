@@ -2313,3 +2313,25 @@ section {
 .entreprise-name {
   color: #FA8943;
 }
+
+.btn-all-service {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 20px 50px;
+  border-radius: 50px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #334871;
+  animation-delay: 0.8s;
+  border: 2px solid #FA8943;
+}
+
+.btn-all-service:hover {
+  background: #FA8943;
+  color: #fff;
+  text-decoration: none;
+}
